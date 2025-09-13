@@ -4,11 +4,11 @@ JDBC adalah API (Application Programming Interface) pada Java yang memungkinkan 
 # PostgreSQL 
 PostgreSQL adalah sistem manajemen basis data relasional open-source yang kuat, mendukung standar SQL lengkap dan fitur canggih seperti transaksi, foreign key, dan extensibility.
 # CRUD (Create, Read, Update, Delete)
-CRUD adalah empat operasi dasar yang digunakan dalam pengelolaan database:
-a.	Create (Insert Data) digunakan untuk menambahkan data baru ke dalam tabel.
-b.	Read (Select Data) digunakan membaca atau menampilkan data dari tabel.
-c.	Update digunakan  mengubah data yang sudah ada.
-d.	Delete digunakan menghapus data yang tidak diperlukan.
+CRUD adalah empat operasi dasar yang digunakan dalam pengelolaan database:  
+a.	Create (Insert Data) digunakan untuk menambahkan data baru ke dalam tabel.  
+b.	Read (Select Data) digunakan membaca atau menampilkan data dari tabel.  
+c.	Update digunakan  mengubah data yang sudah ada.  
+d.	Delete digunakan menghapus data yang tidak diperlukan.  
 # Struktur Program pada Project
 a.	Koneksi.java: class untuk koneksi ke PostgreSQL
 b.	Create.java: class untuk membuat tabel minuman 
