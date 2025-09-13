@@ -1,4 +1,7 @@
 # PBOPertemuan4
+Bahasa pemrograman Java merupakan salah satu bahasa populer yang mendukung paradigma Object-Oriented Programming (OOP). Java juga memiliki library khusus yaitu JDBC (Java Database Connectivity) yang memungkinkan aplikasi Java untuk berkomunikasi langsung dengan berbagai database, termasuk PostgreSQL.  
+
+Pada praktikum ini, dibuat sebuah program sederhana untuk mengelola data minuman kekinian. Data minuman meliputi atribut seperti id_minuman, nama, kategori, harga, dan ukuran. Program ini dibuat dengan pendekatan class terpisah untuk setiap operasi (Insert, Select, Update, Delete), serta sebuah class utama untuk menampilkan menu. Melalui praktikum ini, mahasiswa diharapkan dapat memahami cara menghubungkan Java dengan PostgreSQL sekaligus mengimplementasikan konsep OOP dalam membangun aplikasi berbasis database.
 # Java Database Connectivity (JDBC)
 JDBC adalah API (Application Programming Interface) pada Java yang memungkinkan aplikasi Java berinteraksi dengan database. Dengan JDBC, program dapat melakukan operasi seperti koneksi ke database, eksekusi query, hingga pengolahan data hasil query.
 # PostgreSQL 
