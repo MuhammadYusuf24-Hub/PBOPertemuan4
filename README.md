@@ -10,12 +10,12 @@ b.	Read (Select Data) digunakan membaca atau menampilkan data dari tabel.
 c.	Update digunakan  mengubah data yang sudah ada.  
 d.	Delete digunakan menghapus data yang tidak diperlukan.  
 # Struktur Program pada Project
-a.	Koneksi.java: class untuk koneksi ke PostgreSQL
-b.	Create.java: class untuk membuat tabel minuman 
-c.	Insert.java: class untuk menambahkan data minuman
-d.	Select.java: class untuk menampilkan data dari table
-e.	Update.java: class untuk mengubah data
-f.	Delete.java: class untuk menghapus data
-g.	MainTest.java: class utama (menampilkan menu & menjalankan program)
+a.	Koneksi.java: class untuk koneksi ke PostgreSQL  
+b.	Create.java: class untuk membuat tabel minuman   
+c.	Insert.java: class untuk menambahkan data minuman  
+d.	Select.java: class untuk menampilkan data dari table  
+e.	Update.java: class untuk mengubah data  
+f.	Delete.java: class untuk menghapus data  
+g.	MainTest.java: class utama (menampilkan menu & menjalankan program)  
 
 
